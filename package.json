@@ -1,0 +1,17 @@
+{
+  "name": "datedropper",
+  "description": "jQuery plugin that provides a quick and easy way to manage dates for input fields.",
+  "version": "2.0.0",
+  "author": "Felice Gattuso",
+  "homepage": "https://github.com/felicegattuso/datedropper",
+  "bugs": "https://github.com/felicegattuso/datedropper/issues",
+  "keywords": [
+    "datedropper",
+    "datepicker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felicegattuso/datedropper"
+  },
+  "license": "MIT"
+}
